@@ -1,0 +1,28 @@
+{
+  "mahasiswa": [
+    {
+      "id": "a1",
+      "first_name": "Putri",
+      "last_name": "Saynata",
+      "email": "putri.cahya.saynata@mail.ugm.ac.id",
+      "class": "A",
+      "gender": "female"
+    },
+    {
+      "id": "a2",
+      "first_name": "Enjellia",
+      "last_name": "Barce",
+      "email": "enjelliabarcepratama@mail.ugm.ac.id",
+      "class": "A",
+      "gender": "female"
+    },
+    {
+      "id": "a3",
+      "first_name": "Trisna",
+      "last_name": "Diah",
+      "email": "trisnadiah@mail.ugm.ac.id",
+      "kelas": "B",
+      "gender": "Female"
+    }
+  ]
+}
